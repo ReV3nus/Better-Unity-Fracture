@@ -1,4 +1,4 @@
-Better Unity Fracture
+# Better Unity Fracture
 
 ## Planning and Design Doc
 
@@ -47,4 +47,22 @@ By the way, actually I do considered about writing my own version of 3D voronoi 
 At the end of the stage, I am able to fracture any objects in my Unity project into designated pieces.
 
 <img width="1111" height="715" alt="image" src="https://github.com/user-attachments/assets/b7a1a1c9-0973-422f-b8ca-a27deae0e3da" />
+
+## Milestone 2
+
+In this two weeks, I mainly focused on the whole framework of fracture using the newest Blast and Unity.
+
+First work I've done is that I fully reimplemented the wrappers in Unity, as well as the interfaces in the newest Blast. Later I'll put relevant code and introduction in another repository Unity Blast. Besides, I also implemented some extra extensions of the original Blast, including custom fracture, neightbor fetch, crack export and so on. I've already used some optimizations in these extensions so I think they won't took much cost.
+
+Additionaly, using my newest wrapper and extensions, I am able to implement some simple crack effects in Unity currently. Now I have implemented some primary Light FX from cracks and particle systems.
+
+<img width="852" height="683" alt="image" src="https://github.com/user-attachments/assets/89bfad15-90e8-4c86-b4a4-162b305e6f43" />
+
+<img width="863" height="555" alt="image" src="https://github.com/user-attachments/assets/3dda2557-8bd2-411a-b1e5-78088361acec" />
+
+However, there's still a lot of optimizations to do and I haven't arrange my project properly yet, so I won't upload my code until I finished the whole structure.
+
+In the next and the last week, I'm going to finish all of this and present a better animation and FXs.
+
+
 
