@@ -41,7 +41,7 @@ https://github.com/user-attachments/assets/d105580c-980c-47b0-b435-15e90b42f6e7
 
 ## Other Details
 
-This project is also a usage example of [Unity Blast](https://github.com/ReV3nus/Unity-Blast). A detailed introduction of main functions in `Blast` and wrappers will be provided in that project.
+This project is also a usage example of [Unity Blast](https://github.com/ReV3nus/Unity-Blast). A detailed introduction of main functions in `Blast` and wrappers will be provided in that project. Some of the textures and particle effects are modified from [Unity Particle Pack](https://assetstore.unity.com/packages/vfx/particles/particle-pack-127325).
 
 Only the x64 version *.dll* is contained in this repository. To get your compiled libraries of corresponding operating system, you can also check [Unity Blast](https://github.com/ReV3nus/Unity-Blast) for details instructions.
 
